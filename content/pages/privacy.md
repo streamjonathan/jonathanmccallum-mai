@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+ई साइट अठारह वर्ष सँ कम उमरक लोकक लेल नहि अछि। ई यीशु पर विश्वासक विषयमे कहैत अछि, आ से धार्मिक विषय अछि, तेँ ई बड़ लोकक लेल लिखल गेल अछि। जँ अहाँ अठारह वर्ष सँ कम छी, त कृपया एतय अपन व्यक्तिगत जानकारी नहि बाँटू, आ Jonathan केँ नहि लिखू।
+
+स्पेनमे कानून कहैत अछि जे चौदह वर्ष सँ कम उमरक बच्चाकेँ ऑनलाइन व्यक्तिगत जानकारी बाँटबा सँ पहिने माता-पिता वा अभिभावकक सहमति चाही। एहि साइटक अपन नियम ओहि सँ बेसी कड़ा अछि: जँ अहाँ अठारह वर्ष सँ कम छी, त ई साइट अहाँक लेल नहि अछि।
 
 ## Changes
 
